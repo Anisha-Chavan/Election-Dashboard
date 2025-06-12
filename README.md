@@ -1,0 +1,1 @@
+This project presents an interactive Power BI dashboard analyzing the India General Election Results 2024, designed to offer comprehensive, multi-level insights into election outcomes across the country. The dashboard suite is created to assist political analysts, researchers, and the general public in understanding electoral trends, alliance performance, and voter dynamics.
